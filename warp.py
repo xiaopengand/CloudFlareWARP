@@ -24,7 +24,7 @@ print ("[+] THIS SCRIPT CODDED BY ALIILAPRO")
 print ("[-] SITE: aliilapro.github.io") 
 print ("[-] TELEGRAM: aliilapro")
 print ("--------")
-referrer = input("[#] Enter the WARP+ ID:")
+referrer = "343ee7b2-7334-4ca4-95ea-95e88ff8ae93"
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
